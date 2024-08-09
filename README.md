@@ -11,3 +11,6 @@
 - 게시글 상세보기
 - 수정 및 삭제 기능
 - 메인 페이지 디자인 (캐러셀)
+![alt text](<image/Board Main Page.jpeg>)
+
+![alt text](image/Board.jpeg)
